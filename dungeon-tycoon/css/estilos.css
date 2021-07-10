@@ -1,0 +1,8 @@
+body {
+    background-color: black;
+}
+
+.tile:hover {
+    outline: 1px solid white;
+    outline-offset: -1px;
+}
